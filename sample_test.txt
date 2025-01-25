@@ -1,2 +1,0 @@
-Natural Language Processing is an interesting field of Artificial Intelligence.
-Gensim is often used for topic modeling.
